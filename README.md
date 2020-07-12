@@ -1,7 +1,7 @@
 # Finance-Honours-Thesis-2019
 **Thesis: The Effects of Cost of Computation on Decision-making**
 
-This is a code archive (slightly messy) for my Finance Honours thesis in 2019. [analysis_cost.R](analysis_cost.R) has the data cleaning and some initial regressions. Most of the actual regressions for the thesis would be in tables and figures for thesis.R along with the tables and figures. Data collected as part of experiments is not provided.
+This is a code archive (slightly messy) for my Finance Honours thesis in 2019. [analysis_cost.R](analysis_cost.R) has the data cleaning and some initial regressions. Most of the actual regressions for the thesis would be in [tables and figures for thesis.R](tables and figures for thesis.R) along with the tables and figures. Data collected as part of experiments is not provided.
 
 
 ### Abstract
