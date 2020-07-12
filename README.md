@@ -1,1 +1,8 @@
 # Finance-Honours-Thesis-2019
+Thesis: The Effects of Cost of Computation on Decision-making
+
+This is a code archive (slightly messy) for my Finance Honours thesis in 2019.
+
+
+# Abstract
+Understanding how decision-makers allocate effort to decisions, a problem referred to as meta-decision-making, is one of the critical open problems in decision and cognitive sciences. Most theories of decision-making are based on the rationality principle—that agents select the optimal choice when faced with a decision; however, it does not take into account the difficulty of the optimisation problems decisionmakers have to solve. Indeed, the principle is implausible in many situations, as the computational demands of decisions are often intractable. Computational complexity theory fills the gap by providing a rigorous mathematical framework that quantifies the difficulty of decisions. As such, decision-makers need to somehow adjust their resource allocation to decisions varying in their computational complexity. One proposal is the expected value of control theory, which states that effort is allocated to a cognitive task as long as the expected reward from the task exceeds expected costs. We provide evidence through the lens of the knapsack problem that manipulating the opportunity costs of cognitive control has a substantial effect on decision performance, while its role in altering effort is unclear. Our results provide the foundation for a better understanding of how humans allocate limited cognitive resources, which will inform both decision theory and algorithm design of artificial intelligence more broadly.
