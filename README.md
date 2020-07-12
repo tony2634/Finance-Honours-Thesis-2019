@@ -1,5 +1,5 @@
 # Finance-Honours-Thesis-2019
-Thesis: The Effects of Cost of Computation on Decision-making
+**Thesis: The Effects of Cost of Computation on Decision-making**
 
 This is a code archive (slightly messy) for my Finance Honours thesis in 2019.
 
